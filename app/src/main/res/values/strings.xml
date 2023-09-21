@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Phadozz Furniture</string>
+    <string name="stay_with_your_friends">Stay connected with your friends and family</string>
+    <string name="secure_private_messaging">Secure, private messaging</string>
+    <string name="get_started">Get Started</string>
+    <string name="add_story">Add Story</string>
+    <string name="online">Online</string>
+    <string name="type_message">Type Message</string>
+    <string name="welcome_back">"Welcome back, "</string>
+    <string name="jayant">Jayant!</string>
+    <string name="okay">Okay</string>
+    <string name="_12_23_pm">12:23 PM</string>
+
+    <string name="search">Search</string>
+    <string name="chocolate_frappuccino">Chocolate Frappuccino</string>
+    <string name="_20_00">ksh 20.00</string>
+    <string name="see_all">See All</string>
+    <string name="popular">Popular</string>
+    <string name="our_way_of_loving_you_back">Our way of loving\nyou back</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_etiam_at_mi_vitae_augue_feugiat_scelerisque_in_a_eros">Your Dirt proof and fadeless furniture performance that keeps your home warmly decorated</string>
+    <string name="add_to_bag">Add to bag</string>
+    <string name="coffee">Coffee</string>
+    <string name="chocolate_cappuccino">Chocolate Cappuccino</string>
+    <string name="_4_5">4.5</string>
+
+    <string name="categories">Categories</string>
+    <string name="placeholder">I am Looking for...</string>
+    <string name="heading_text">Discover Your\nBest Furniture</string>
+    <string name="rooms">Rooms</string>
+    <string name="room_des">The Comfort of your every Room</string>
+    <string name="product_name">Phadozz Furniture</string>
+    <string name="add_to_ba">Add to bag</string>
+    <string name="description">Your Dirt proof and fadeless furniture performance that keeps your home warmly decorated </string>
+    <string name="recommend_products">Furniture Product you might like</string>
+    <string name="proceed_to_checkout">Proceed to checkout</string>
+    <string name="my_shoping_bag">My Shopping Bag</string>
+    <string name="_599">kshs 599</string>
+    <string name="_5_0">5.0</string>
+    <string name="_98_reviews">What I Ordered is what was delivered 98 Reviews</string>
+    <string name="total">Total</string>
+    <string name="_600">kshs 600</string>
+    <string name="promotion">Delivery is Only available in Nairobi within City Limits</string>
+    <string name="material">Strong Anti-fade Modern Material</string>
+    <string name="more">Living Room</string>
+    <string name="title_activity_more_products">MoreProducts</string>
+
+</resources>
