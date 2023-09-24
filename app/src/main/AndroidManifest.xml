@@ -13,6 +13,11 @@
         android:theme="@style/Theme.ChatApp"
         tools:targetApi="31">
         <activity
+            android:name="com.nameisjayant.projects.furniture.data.image_slider"
+            android:exported="false"
+            android:label="@string/title_activity_image_slider"
+            android:theme="@style/Theme.ChatApp" />
+        <activity
             android:name="com.nameisjayant.projects.furniture.data.MoreProducts"
             android:exported="false"
             android:label="@string/title_activity_more_products"

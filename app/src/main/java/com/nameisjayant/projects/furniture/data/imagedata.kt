@@ -16,39 +16,39 @@ data class ImageData(
 
 val imageList = listOf(
     ImageData(
-        "Yesaya 40:31",
+        "Phadozz Furniture",
         4.0f,
-        "orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.",
+        "For quality, affordable furniture. The comfort of your home",
         R.drawable.banner1
     ),
     ImageData(
-        "Roma 8:28",
+        "Phadozz Furniture",
         4.0f,
-        "Kita tahu sekarang, bahwa Allah turut bekerja dalam segala sesuatu untuk mendatangkan kebaikan bagi mereka yang mengasihi Dia, yaitu bagi mereka yang terpanggil sesuai dengan rencana Allah.",
+        "We custom make: Modern Furniture; Sofa sets, Dinning Sets, Beds, Coffee Tables, Wall Units, Tv Stands..",
         R.drawable.banner2
     ),
     ImageData(
-        "Yeremia 29:11",
+        "Visit here",
         4.0f,
-        "Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan.",
+        "Visit us along Outerring Road, Kware Stage or call 0721392969, for more designs and a variety to choose from",
         R.drawable.banner3
     ),
     ImageData(
-        "Filipi 4:13",
+        "Offers",
         4.0f,
-        "Segala perkara dapat kutanggung di dalam Dia yang memberi kekuatan kepadaku",
+        "Mega Sale Offers available",
         R.drawable.banner4
     ),
     ImageData(
-        "Yosua 1:9",
+        "Customized Products",
         4.0f,
-        "Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.”",
-        R.drawable.banner
+        "Serving Quality",
+        R.drawable.banner5
     ),
     ImageData(
-        "Filipi 4:6",
+        "Phadozz Furniture",
         4.0f,
-        "Janganlah hendaknya kamu kuatir tentang apapun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.",
+        "What I Ordered is what was delivered",
         R.drawable.banner3
     )
 

@@ -16,7 +16,7 @@ fun LogoComponent(
 ) {
 
     Image(
-        painter = painterResource(id = R.drawable.logo),
+        painter = painterResource(id = R.drawable.logo2),
         contentDescription = "",
         modifier = modifier.size(size = size)
     )

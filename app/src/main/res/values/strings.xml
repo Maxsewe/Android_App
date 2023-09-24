@@ -41,7 +41,8 @@
     <string name="_600">kshs 600</string>
     <string name="promotion">Delivery is Only available in Nairobi within City Limits</string>
     <string name="material">Strong Anti-fade Modern Material</string>
-    <string name="more">Living Room</string>
+    <string name="more">More Products</string>
     <string name="title_activity_more_products">MoreProducts</string>
+    <string name="title_activity_image_slider">image_slider</string>
 
 </resources>
